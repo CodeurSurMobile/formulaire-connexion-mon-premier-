@@ -5,3 +5,11 @@ le but de se premier projet est d'être confronté à la difficulté de position
 temp du projet : 1h40 fractionné 80 ouverture de l'application éditeur de code sur téléphone.
 
 Chronologie de création : projet numéro 5.
+
+mise à jour disponible
+
+pour cette mise à jour 
+1) j'ai modifié les classes en B-E-M pour mieux lire le code html.
+2) et également l'ajout une patern pour un contrôle strict sans js.
+3) et l'ajout de oninvalid pour un message personnalisé. 
+4) autocomplete pour une meilleure expérience utilisateur.
